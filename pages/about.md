@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Allegheny Christian Outreach
+title: About ACO
 permalink: /about
 section: about
 intro_paragraph: |
