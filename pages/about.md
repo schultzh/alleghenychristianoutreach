@@ -1,6 +1,10 @@
 ---
 layout: page
+<<<<<<< HEAD
 title: What is Allegheny Christian Outreach?
+=======
+title: About ACO
+>>>>>>> 23d244acde72a8d52e70e6aaaf80676f890a9bdb
 permalink: /about
 section: about
 intro_paragraph: |
