@@ -1,0 +1,43 @@
+#bio-table
+{
+  width: 100%
+  display: table;
+}
+
+#bio-table-caption
+{
+  display: table-caption;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#bio-table-header
+{
+  display: table-header-group;
+  background-color: gray;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.table-header-cell
+{
+  display: table-cell;
+  padding: 10px;
+  text-align: justify;
+}
+
+#bio-table-body
+{
+  display: table-row-group;
+}
+
+.bio-table-row
+{
+  display: table-row;
+}
+
+.table-body-cell
+{
+  display: table-cell
+}
