@@ -1,10 +1,10 @@
-#bio-table
+#resp-table
 {
   width: 100%
   display: table;
 }
 
-#bio-table-caption
+#resp-table-caption
 {
   display: table-caption;
   text-align: center;
@@ -12,7 +12,7 @@
   font-weight: bold;
 }
 
-#bio-table-header
+#resp-table-header
 {
   display: table-header-group;
   background-color: gray;
@@ -27,12 +27,12 @@
   text-align: justify;
 }
 
-#bio-table-body
+#resp-table-body
 {
   display: table-row-group;
 }
 
-.bio-table-row
+.resp-table-row
 {
   display: table-row;
 }
