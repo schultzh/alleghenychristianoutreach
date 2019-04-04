@@ -2,5 +2,7 @@
 
 - text: About
   url: /about
+- text: Our Team
+  url: /team
 - text: Contact
   url: /contact
