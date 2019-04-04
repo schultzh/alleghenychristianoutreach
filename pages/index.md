@@ -1,6 +1,7 @@
 ---
 layout: page
-title: What is Allegheny Christian Outreach?
+title: What is
+Allegheny Christian Outreach?
 permalink: /about
 section: about
 intro_paragraph: |
