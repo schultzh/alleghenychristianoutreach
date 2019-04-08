@@ -9,4 +9,4 @@ intro_paragraph: |
   form below!
 ---
 
-**Send us a message**
+**Send us a message!**
