@@ -5,7 +5,7 @@ permalink: /contact
 section: contact
 intro_paragraph: |
   Do you have questions for us? Would you like to get involved but don't know
-  where to start? Can we pray for you? Please send us a message through the
+  where to start? Please send us a message through the
   form below!
 ---
 
