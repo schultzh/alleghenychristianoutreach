@@ -4,9 +4,9 @@ title: Connect with ACO!
 permalink: /contact
 section: contact
 intro_paragraph: |
-  Do you have questions for us? Would you like to get involved but don't know
-  where to start? Please send us a message through the
-  form below!
+  Use the forms below to connect with Allegheny Christian Outreach!
 ---
 
-**Send us a message!**
+**Do you have questions for us? Would you like to get involved but don't know
+where to start? Please send us a message through the
+form below!**
