@@ -1,10 +1,8 @@
 ---
 layout: contact
-title: Connect With Us
+title: Connect with ACO!
 permalink: /contact
 section: contact
 intro_paragraph: |
-  Connect with ACO!
+  Please use the forms below to connect with us!
 ---
-
-**Send us a message**

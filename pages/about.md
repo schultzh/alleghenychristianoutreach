@@ -1,10 +1,11 @@
 ---
 layout: page
-title: What is Allegheny Christian Outreach?
+title:
+  What is<br>Allegheny Christian Outreach?
 permalink: /
 section: about
 intro_paragraph: |
-  Tuesdays 8:30 in Ford Chapel Oratory
+  Tuesdays 8:30pm in Ford Chapel Oratory
 ---
 ### Everyone is welcome! You don't have to be a Christian.
 
