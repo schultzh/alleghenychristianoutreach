@@ -4,7 +4,7 @@ title: Connect with ACO!
 permalink: /contact
 section: contact
 intro_paragraph: |
-  Use the forms below to connect with us! We would love to hear from you!
+  Please use the forms below to connect with us!
 ---
 
 **Do you have questions for us? Would you like to get involved but don't know
