@@ -10,11 +10,3 @@ intro_paragraph: |
 **Do you have questions for us? Would you like to get involved but don't know
 where to start? Please send us a message through the
 form below!**
-
-**Do you have questions for us? Would you like to get involved but don't know
-where to start? Please send us a message through the
-form below!**
-
-**Do you have questions for us? Would you like to get involved but don't know
-where to start? Please send us a message through the
-form below!**
