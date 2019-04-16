@@ -16,10 +16,10 @@ college students to serve Jesus Christ with their entire lives. The CCO works
 with local congregations to develop students to be passionate leaders who serve Jesus Christ in their studies, jobs, communities, and families.
 
 We explore and live out our faith through:
-- - Bible Study
-- - Engaging Speakers
-- - Worship
-- - Fall Retreat
-- - Service
-- - Small Groups
-- - Jubilee Conference
+- Bible Study
+- Engaging Speakers
+- Worship
+- Fall Retreat
+- Service
+- Small Groups
+- [Jubilee Conference](https://www.jubileeconference.com)
