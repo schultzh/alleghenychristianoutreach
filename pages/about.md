@@ -10,7 +10,7 @@ intro_paragraph: |
 ### Everyone is welcome! You don't have to be a Christian.
 
 Allegheny Christian Outreach (ACO) is a large group fellowship
-(fellowship is a Christian word for meeting and taking care of each other)
+(fellowship is a Christian word for being together and taking care of each other)
 that helps students to know and follow Jesus. Students help each other to
 deepen and live out their Christian faith on campus, in the classroom, on the
 field and more.
