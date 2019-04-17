@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Connect with ACO!
 permalink: /contact
 section: contact
