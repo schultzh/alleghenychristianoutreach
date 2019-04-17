@@ -5,7 +5,7 @@ title:
 permalink: /
 section: about
 intro_paragraph: |
-  Tuesdays 8:30pm in Ford Chapel Oratory
+  Tuesdays at 8:30pm in Ford Chapel Oratory
 ---
 ### Everyone is welcome! You don't have to be a Christian.
 
