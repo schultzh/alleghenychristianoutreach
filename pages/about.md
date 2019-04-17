@@ -5,7 +5,7 @@ title:
 permalink: /
 section: about
 intro_paragraph: |
-  Join us on Tuesdays at 8:30pm in Ford Chapel
+  Join us on Tuesdays at 8:30pm in Ford Chapel!
 ---
 ### Everyone is welcome! You don't have to be a Christian.
 
