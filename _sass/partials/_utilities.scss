@@ -92,6 +92,6 @@ textarea {
 	max-width: 100%;
 }
 
-button {
+input.MyButton {
 	@include button($link-color, $text-color-negative);
 }
