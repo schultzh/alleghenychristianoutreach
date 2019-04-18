@@ -165,33 +165,6 @@ html[data-current="contact"] main > form {
       width: auto;
       max-width: none;
     }
-
-// contact form
-    html[data-current="prayer"] main > form {
-      display: grid;
-      label {
-        display: none;
-      }
-      input,
-      textarea {
-        width: 100%;
-        padding: 1rem;
-        margin-bottom: 2rem;
-      }
-      button {
-        width: 100%;
-      }
-    }
-
-    // reset CSS Grid fallbacks when they aren't required
-    @supports (display: grid) {
-      html[data-current="prayer"] main > form {
-        input,
-        textarea,
-        button {
-          width: auto;
-          max-width: none;
-        }
   }
 }
 
@@ -206,6 +179,4 @@ footer {
   > small {
     grid-column: main;
   }
-}
-}
 }
