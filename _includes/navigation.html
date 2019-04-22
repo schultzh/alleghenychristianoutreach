@@ -4,10 +4,13 @@
   <li>
   <!-- home -->
   <a href="{{ item.url }}"{% if item.url == navurl %} data-current="current page"{% endif %}>{{ item.text }}</a>
-      <!-- other pages --> 
+      <!-- other pages -->
      {% if item.subitems %}
        {% include navigation.html navigation=item.subitems %}
     {% endif %}
   </li>
 {% endfor %}
 </ul>
+
+<script src="/js/jquery.min.js"></script>
+{% include mobile-menu.html color="#777777" width="757" %}
