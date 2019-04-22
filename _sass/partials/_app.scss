@@ -157,7 +157,7 @@ form {
 }
 
 // reset CSS Grid fallbacks when they aren't required
-@supports (display: inline) {
+@supports (display: block-inline) {
   html[data-current="contact"] main > form {
     input,
     textarea,
