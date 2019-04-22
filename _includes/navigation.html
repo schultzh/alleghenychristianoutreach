@@ -1,14 +1,14 @@
 {% assign navurl = page.url | remove: 'team.html' %}
-<!-- <ul>
+<ul>
 {% for item in include.navigation %}
-  <li>
+  <!-- <li>
     <a href="{{ item.url }}"{% if item.url == navurl %} data-current="current page"{% endif %}>{{ item.text }}</a>
     {% if item.subitems %}
       {% include navigation.html navigation=item.subitems %}
     {% endif %}
   </li>
 {% endfor %}
-</ul> -->
+</ul>
 
 <!-- Mobile Menu -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
