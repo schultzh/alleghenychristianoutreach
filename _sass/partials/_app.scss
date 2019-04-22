@@ -140,8 +140,8 @@ nav[aria-label="Adjacent Posts"] {
 }
 
 // contact form
-html[data-current="contact-form"] main > form {
-  display: inline;
+form {
+  display: block-inline;
   label {
     display: none;
   }
