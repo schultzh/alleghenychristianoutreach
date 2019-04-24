@@ -1,11 +1,14 @@
-{% assign navurl = page.url | remove: 'team.html' %}
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <div id="mobile-menu">
-  <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="/team">Our Team</a></li>
-    <li><a href="/contact">Contact</a></li>
-  </ul>
+{% assign navurl = page.url | remove: 'team.html' %}
+  <div id="nav-links">
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/team">Our Team</a></li>
+      <li><a href="/contact">Contact</a></li>
+    </ul>
+  </div>
 </div>
 
 <!-- using code from w3schools.com -->
