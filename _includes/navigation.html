@@ -1,4 +1,5 @@
 {% assign navurl = page.url | remove: 'team.html' %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div id="mobile-menu">
   <ul>
     <li><a href="/">Home</a></li>
@@ -6,3 +7,19 @@
     <li><a href="/contact">Contact</a></li>
   </ul>
 </div>
+
+<!-- using code from w3schools.com -->
+<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+   <i class="fa fa-bars"></i>
+ </a>
+
+ <script>
+  function myFunction() {
+  var x = document.getElementById("myLinks");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
