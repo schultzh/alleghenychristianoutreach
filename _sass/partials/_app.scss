@@ -211,6 +211,30 @@ form {
   color: white;
 }
 
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the mobile-menu (.icon) */
+@media screen and (max-width: 600px) {
+  .mobile-menu a:not(:first-child) {display: none;}
+  .mobile-menu a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+/* The "responsive" class is added to the mobile-menu with JavaScript when the user clicks on the icon. This class makes the mobile-menu look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 600px) {
+  .mobile-menu.responsive {position: relative;}
+  .mobile-menu.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .mobile-menu.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+
 footer {
   grid-column: full;
   display: grid;
