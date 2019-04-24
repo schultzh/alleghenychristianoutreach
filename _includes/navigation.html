@@ -1,12 +1,11 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <div id="mobile-menu">
-{% assign navurl = page.url | remove: 'team.html' %}
-  <div id="nav-links">
-    <ul>
-      <li><a href="/">Home</a></li>
-      <li><a href="/team">Our Team</a></li>
-      <li><a href="/contact">Contact</a></li>
-    </ul>
-  </div>
+  <a href="/" class="active">Allegheny Christian Outreach</a>
+    <a href="/">Home</a>
+      <a href="/team">Our Team</a>
+      <a href="/contact">Contact</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
 </div>
