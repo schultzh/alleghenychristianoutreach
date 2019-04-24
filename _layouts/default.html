@@ -18,21 +18,22 @@ layout: compress
     </main>
 
     {% include footer.html %}
+    
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+       <i class="fa fa-bars"></i>
+     </a>
+
+     <script>
+      function myFunction() {
+      var x = document.getElementById("nav-links");
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "block";
+      }
+    }
+    </script>
 
   </body>
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-     <i class="fa fa-bars"></i>
-   </a>
-
-   <script>
-    function myFunction() {
-    var x = document.getElementById("nav-links");
-    if (x.style.display === "block") {
-      x.style.display = "none";
-    } else {
-      x.style.display = "block";
-    }
-  }
-  </script>
 
 </html>
