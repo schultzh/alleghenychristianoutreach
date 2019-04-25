@@ -26,11 +26,11 @@ The CCO works with local congregations to develop students to be passionate lead
 who serve Jesus Christ in their studies, jobs, communities, and families.
 
 We explore and live out our faith through:
-- Bible Study
-- Engaging Speakers
-- Worship
-- Fall Retreat
-- Service
-- Small Groups
-- [Jubilee Conference](https://www.jubileeconference.com)
-- And MORE!
+* Bible Study
+* Engaging Speakers
+* Worship
+* Fall Retreat
+* Service
+* Small Groups
+* [Jubilee Conference](https://www.jubileeconference.com)
+* And MORE!
