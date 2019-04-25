@@ -156,6 +156,22 @@ form {
   }
 }
 
+  html[data-current="button"] main > form {
+    width: auto;
+    margin: auto;
+    padding: 20px;
+    cursor: pointer;
+    box-shadow: 6px 6px 5px;
+    #999;
+    -webkit-box-shadow: 6px 6px 5px #999;
+    -moz-box-shadow: 6px 6px 5px #999;
+    font-weight: bold; background: rgba(100,122,20,1);
+    color: #FFF;
+    border-radius: 10px;
+    border: 1px solid #999;
+    font-size: 150%;
+  }
+
 // reset CSS Grid fallbacks when they aren't required
 @supports (display: block-inline) {
   html[data-current="contact"] main > form {
