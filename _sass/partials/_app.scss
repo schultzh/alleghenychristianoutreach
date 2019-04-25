@@ -201,7 +201,7 @@ form {
 
 /* Hide the link that should open and close the mobile-menu on small screens */
 .mobile-menu .icon {
-  display: none;
+  display: block;
 }
 
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the mobile-menu (.icon) */
