@@ -5,11 +5,10 @@ title:
 permalink: /
 section: about
 intro_paragraph: |
+  ![ACO group picture](/assets/img/Jubilee 2019.jpg)
   Join us on Tuesdays at 8:30pm in Ford Chapel!
 ---
 ### Everyone is welcome! You don't have to be a Christian.
-
-[ACO group picture](/assets/img/Jubilee 2019.jpg)
 
 Allegheny Christian Outreach (ACO) is a large group fellowship
 _(fellowship is a Christian word for being together and taking care of each other)_
