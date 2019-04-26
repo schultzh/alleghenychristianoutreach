@@ -26,14 +26,14 @@ who serve Jesus Christ in their studies, jobs, communities, and families.
 
 We explore and live out our faith through:
 
-*Bible Study
-    *Women's Bible Study
-    *Dude's Bible Study
-*Engaging Speakers
-*Worship
-*Fall Retreat
-*Service
-    *Participating in Service Saturdays
-*Small Groups
-*[Jubilee Conference](https://www.jubileeconference.com)
-*And MORE!
+Bible Study
+  Women's Bible Study
+  Dude's Bible Study
+Engaging Speakers
+Worship
+Fall Retreat
+Service
+    Participating in Service Saturdays
+Small Groups
+[Jubilee Conference](https://www.jubileeconference.com)
+And MORE!
