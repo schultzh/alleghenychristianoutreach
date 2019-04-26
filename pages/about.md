@@ -25,7 +25,7 @@ The CCO works with local congregations to develop students to be passionate lead
 who serve Jesus Christ in their studies, jobs, communities, and families.
 
 We explore and live out our faith through:
-* Bible Study
+*Bible Study
   * Women's Bible Study
   * Dude's Bible Study
 * Engaging Speakers
