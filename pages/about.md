@@ -5,6 +5,7 @@ title:
 permalink: /
 section: about
 intro_paragraph: |
+  ![ACO group picture](/assets/img/Jubilee 2019.jpg)
   Join us on Tuesdays at 8:30pm in Ford Chapel!
 ---
 ### Everyone is welcome! You don't have to be a Christian.
@@ -24,6 +25,7 @@ The CCO works with local congregations to develop students to be passionate lead
 who serve Jesus Christ in their studies, jobs, communities, and families.
 
 We explore and live out our faith through:
+
 - Bible Study
 - Engaging Speakers
 - Worship
