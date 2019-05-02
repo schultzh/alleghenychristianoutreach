@@ -119,13 +119,14 @@ form {
   label {
     display: block-inline;
   }
-  input {
-    width: 50%;
-  }
+  input,
   textarea {
     width: 100%;
     padding: 1rem;
     margin-bottom: 2rem;
+  }
+  input[type=checkbox]{
+    width: 15%;
   }
   button {
     width: 100%;
