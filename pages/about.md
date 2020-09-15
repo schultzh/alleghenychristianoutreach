@@ -17,6 +17,10 @@ _fellowship_ is a Christian word for being together and taking care of each othe
 ACO is a [Coalition for Christian Outreach (CCO)](https://ccojubilee.org) ministry,
 advised by CCO staff member Mollie Little.
 
-### Why do we meet in fellowship? 
+### Why do we meet in fellowship?
 
 add willard's video 
+
+### How are we meeting in the midst of a pandemic?
+
+add chart of small groups + zoom link ? 
