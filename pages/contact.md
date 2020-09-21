@@ -3,6 +3,6 @@ layout: contact
 title: Connect with ACO!
 permalink: /contact
 section: contact
-intro_paragraph: |
+intro_paragraph:
 Email us at aco@allegheny.edu
 ---
