@@ -19,8 +19,7 @@ advised by CCO staff member Mollie Little.
 
 ### Why do we meet in fellowship?
 
-add willard' video
+[Check out a video from ACO President, Willard Crosby, on God's invitation to a relationship with Him.](https://vimeo.com/460169594)
 
 ### How are we meeting in the midst of a pandemic?
 
-add chart of small groups + zoom link ? 
