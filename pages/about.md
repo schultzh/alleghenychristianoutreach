@@ -19,7 +19,7 @@ advised by CCO staff member Mollie Little.
 
 ### Why do we meet in fellowship?
 
-add willard's video 
+add willard' video
 
 ### How are we meeting in the midst of a pandemic?
 
