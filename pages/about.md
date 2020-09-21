@@ -23,3 +23,6 @@ advised by CCO staff member Mollie Little.
 
 ### How are we meeting in the midst of a pandemic?
 
+In order to follow Allegheny's social distancing and safety guidlines, we are meeting in three small groups led by our student leaders. We will be soaking in the New Testement book of Ephesians while learning to grow together through unprecendented challenges.
+
+On the first Tuesday of every month, we will meet as a large group on Tuesdays at 8:30PM using Zoom!
