@@ -27,7 +27,7 @@ In order to follow Allegheny's social distancing and safety guidlines, ACO is me
 
 __On the first Tuesday of every month:__ we will meet as a large group at 8:30PM using [Zoom!](https://us02web.zoom.us/j/84435625539?pwd=Y3gxZ2R6azNjclg5VzNMUGNPN0Z5QT09)
 
-__On the following Tuesdays:__ two separate small groups will meet in Ford Chapel and a third will meeet virtually using [Zoom](https://us02web.zoom.us/j/84435625539?pwd=Y3gxZ2R6azNjclg5VzNMUGNPN0Z5QT09) - all at 8:30PM.
+__On the following Tuesdays:__ two separate small groups will meet in Ford Chapel and a third will meet virtually using [Zoom](https://us02web.zoom.us/j/84435625539?pwd=Y3gxZ2R6azNjclg5VzNMUGNPN0Z5QT09) - all at 8:30PM.
 
 If you are new - come to whichever place you prefer!
 If you don't remember which small group you are in, check your email or send us an email (aco@allegheny.edu), we will point you in the right direction!
