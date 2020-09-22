@@ -23,6 +23,15 @@ advised by CCO staff member Mollie Little.
 
 ### How are we meeting in the midst of a pandemic?
 
-In order to follow Allegheny's social distancing and safety guidlines, we are meeting in three small groups led by our student leaders. We will be soaking in the New Testement book of Ephesians while learning to grow together through unprecendented challenges.
+In order to follow Allegheny's social distancing and safety guidlines, ACO is meeting in three small groups led by our student leaders. We will be soaking in the New Testement book of Ephesians while learning to grow together through unprecendented challenges.
 
-On the first Tuesday of every month, we will meet as a large group on Tuesdays at 8:30PM using Zoom!
+On the first Tuesday of every month, we will meet as a large group on Tuesdays at 8:30PM using [Zoom!](https://us02web.zoom.us/j/84435625539?pwd=Y3gxZ2R6azNjclg5VzNMUGNPN0Z5QT09)
+
+On the following Tuesdays: two separate small groups will meet in Ford Chapel and a third will meeet virtually using [Zoom](https://us02web.zoom.us/j/84435625539?pwd=Y3gxZ2R6azNjclg5VzNMUGNPN0Z5QT09) - all at 8:30PM.
+
+If you are new - come to whichever place you prefer!
+If you don't remember which small group you are in, check your email or send us an email (aco@allegheny.edu), we will point you in the right direction!
+
+Please keep inviting friends! They can join you at whichever small group you attend.
+
+*We hope to keep small groups fairly regular, knowing that there is great spiritual growth when you study the Word of God with the same people week after week.*
